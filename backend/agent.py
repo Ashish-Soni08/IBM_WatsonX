@@ -1,5 +1,6 @@
 from dotenv import dotenv_values
 
+
 config = dotenv_values("/backend/.env")  # config = {"USER": "foo", "EMAIL": "foo@example.org"}
 
 ## WATSONX
