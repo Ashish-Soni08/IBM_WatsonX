@@ -2,7 +2,7 @@ from dotenv import dotenv_values
 import gradio as gr
 import os
 
-config = dotenv_values("/frontend/.env")  # config = {"USER": "foo", "EMAIL": "foo@example.org"}
+config = dotenv_values("./.env")  # config = {"USER": "foo", "EMAIL": "foo@example.org"}
 
 ## LANGSMITH(by Langchain)
 LANGCHAIN_TRACING_V2=True
