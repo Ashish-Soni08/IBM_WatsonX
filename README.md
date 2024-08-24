@@ -33,3 +33,9 @@ python -m ipykernel install --user --name=powerbi-ai-agent --display-name="Py3.1
 # verify kernel installation
 jupyter kernelspec list
 ```
+
+## Data Collection
+
+In this section, we will discuss how the data was gathered and the sources from which it was obtained.
+
+[PowerBI](https://learn.microsoft.com/en-us/power-bi/)
