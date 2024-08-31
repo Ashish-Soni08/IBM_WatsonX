@@ -1,6 +1,6 @@
-# IBM WatsonX
+# Hack Together: RAG Hack
 
-Hackathon Organizer - lablab.ai
+Hackathon Organizer - [Microsoft](https://techcommunity.microsoft.com/t5/educator-developer-blog/raghack-free-global-hackathon-sept-3rd-13th-2024/ba-p/4217191)
 
 ## Setting up the Environment
 
@@ -10,7 +10,7 @@ python --version
 ```
 
 ```bash
-# create a environment named -> .wellness-ai-agent
+# create a environment named -> .powerbi-ai-agent
 python -m venv .powerbi-ai-agent
 ```
 
