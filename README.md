@@ -2,6 +2,8 @@
 
 Hackathon Organizer - [Microsoft](https://techcommunity.microsoft.com/t5/educator-developer-blog/raghack-free-global-hackathon-sept-3rd-13th-2024/ba-p/4217191)
 
+<img width="1599" alt="RAG AI Hack Banner" src="assets\RAG_AI_Hack_Banner.png">
+
 ## Setting up the Environment
 
 ```bash
