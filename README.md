@@ -13,12 +13,12 @@ python --version
 
 ```bash
 # create a environment named -> .powerbi-ai-agent
-python -m venv .powerbi-ai-agent
+python -m venv .powerbi-ai-rag
 ```
 
 ```bash
 # activate the environment
-source .powerbi-ai-agent/Scripts/activate
+source .powerbi-ai-rag/Scripts/activate
 ```
 
 ```bash
@@ -28,7 +28,7 @@ pip install jupyter ipykernel
 
 ```bash
 # add your virtual environment as a kernel
-python -m ipykernel install --user --name=powerbi-ai-agent --display-name="Py3.12-powerbi-ai-agent"
+python -m ipykernel install --user --name=powerbi-ai-agent --display-name="Py3.12-powerbi-ai-rag"
 ```
 
 ```bash
@@ -41,3 +41,4 @@ jupyter kernelspec list
 In this section, we will discuss how the data was gathered and the sources from which it was obtained.
 
 [PowerBI](https://learn.microsoft.com/en-us/power-bi/)
+
