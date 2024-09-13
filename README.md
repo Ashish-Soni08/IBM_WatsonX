@@ -8,7 +8,7 @@ Hackathon Organizer - [Microsoft](https://techcommunity.microsoft.com/t5/educato
 
 ```bash
 python --version 
-# Output -> Python 3.12.5
+# Output -> Python 3.12.1
 ```
 
 ```bash
@@ -18,7 +18,7 @@ python -m venv .powerbi-ai-rag
 
 ```bash
 # activate the environment
-source .powerbi-ai-rag/Scripts/activate
+source .powerbi-ai-rag/bin/activate
 ```
 
 ```bash
@@ -28,7 +28,7 @@ pip install jupyter ipykernel
 
 ```bash
 # add your virtual environment as a kernel
-python -m ipykernel install --user --name=powerbi-ai-agent --display-name="Py3.12-powerbi-ai-rag"
+python -m ipykernel install --user --name=powerbi-ai-rag --display-name="Py3.12-powerbi-ai-rag"
 ```
 
 ```bash
@@ -36,9 +36,10 @@ python -m ipykernel install --user --name=powerbi-ai-agent --display-name="Py3.1
 jupyter kernelspec list
 ```
 
+<img width="1599" alt="Jupyter Kernel" src="assets/jupyter_kernel_install_and_verify.PNG">
+
 ## Data Collection
 
 In this section, we will discuss how the data was gathered and the sources from which it was obtained.
 
 [PowerBI](https://learn.microsoft.com/en-us/power-bi/)
-
