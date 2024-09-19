@@ -1,8 +1,8 @@
-# Hack Together: RAG Hack
+# IBM TechXChange Pre-Conference WatsonX Hackathon
 
-Hackathon Organizer - [Microsoft](https://techcommunity.microsoft.com/t5/educator-developer-blog/raghack-free-global-hackathon-sept-3rd-13th-2024/ba-p/4217191)
+Hackathon Organizer - [IBM](https://www.ibm.com/community/ibm-techxchange-conference-hackathon/)
 
-<img width="1599" alt="RAG AI Hack Banner" src="assets\RAG_AI_Hack_Banner.png">
+<img width="1599" alt="RAG AI Hack Banner" src="assets\ibm_banner.PNG">
 
 ## Setting up the Environment
 
@@ -43,3 +43,11 @@ jupyter kernelspec list
 In this section, we will discuss how the data was gathered and the sources from which it was obtained.
 
 [PowerBI](https://learn.microsoft.com/en-us/power-bi/)
+
+## Problem Statement
+
+## Building a RAG Chatbot
+
+<img width="1599" alt="PowerBI Chatbot" src="assets/powerbi_agent.png">
+
+## Technlogy Stack
