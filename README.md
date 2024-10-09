@@ -1,8 +1,8 @@
-# IBM TechXChange Pre-Conference WatsonX Hackathon
+# Microsoft Fabric and AI Learning Hackathon
 
-Hackathon Organizer - [IBM](https://www.ibm.com/community/ibm-techxchange-conference-hackathon/)
+Hackathon Organizer - [Microsoft](https://microsoftfabric.devpost.com/?ref_feature=challenge&ref_medium=discover)
 
-<img width="1599" alt="RAG AI Hack Banner" src="assets\ibm_banner.PNG">
+<img width="1599" alt="RAG AI Hack Banner" src="assets\">
 
 ## Setting up the Environment
 
